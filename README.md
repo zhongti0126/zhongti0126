@@ -1,16 +1,27 @@
-## Hi there 👋
+# CHUNG-TI CHANG 張中褆
 
-<!--
-**zhongti0126/zhongti0126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student focusing on Embedded Systems, Arduino Development, and Mechatronics & Control Systems.
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- Embedded Systems
+- Arduino Development
+- Mechatronics & Control Systems
+- Web Development
+- LeetCode Practice
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- Arduino Anti-Collision System
+- IoT Monitoring Dashboard
+- Study Quest App
+- LeetCode Journey
+
+## 🏆 Awards
+- Bronze Medal — Seoul International Invention Fair (SIIF)
+- JLPT N2
+
+## 🌐 Portfolio
+- Portfolio Website:
+https://zhongti0126.github.io/zhongti-portfolio/
+
+## 📫 Contact
+Email: zhongti.official@gmail.com
