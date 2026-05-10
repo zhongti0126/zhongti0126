@@ -21,6 +21,7 @@ Computer Science student focusing on Embedded Systems, Arduino Development, and 
 
 ## 🌐 Portfolio
 - Portfolio Website:https://zhongti0126.github.io/zhongti-portfolio/
+- [![Study Quest App](https://img.shields.io/badge/Study%20Quest-Web%20App-green?style=for-the-badge)](https://zhongti0126.github.io/study---quest---app-/)
 
 ## 📫 Contact
 Email: zhongti.official@gmail.com
